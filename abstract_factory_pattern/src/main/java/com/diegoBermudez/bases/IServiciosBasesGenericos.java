@@ -1,4 +1,4 @@
-package com.diegoBermudez.abstractfactory.bases;
+package com.diegoBermudez.bases;
 
 
 import com.diegoBermudez.servicios.IServiciosArticulos;

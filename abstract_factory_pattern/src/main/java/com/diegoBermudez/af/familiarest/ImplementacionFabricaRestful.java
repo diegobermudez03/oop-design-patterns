@@ -1,7 +1,7 @@
 package com.diegoBermudez.af.familiarest;
 
 
-import com.diegoBermudez.abstractfactory.bases.IServiciosBasesGenericos;
+import com.diegoBermudez.bases.IServiciosBasesGenericos;
 import com.diegoBermudez.servicios.IServiciosArticulos;
 import com.diegoBermudez.servicios.IServiciosEmpleados;
 

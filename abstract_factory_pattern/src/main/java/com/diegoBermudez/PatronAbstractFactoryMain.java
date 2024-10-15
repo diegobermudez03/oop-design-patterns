@@ -1,7 +1,8 @@
 package com.diegoBermudez;
 
-import com.diegoBermudez.abstractfactory.bases.IServiciosBasesGenericos;
-import com.diegoBermudez.abstractfactory.bases.ServiciosGenericosAbstractFactory;
+
+import com.diegoBermudez.bases.IServiciosBasesGenericos;
+import com.diegoBermudez.bases.ServiciosGenericosAbstractFactory;
 import com.diegoBermudez.servicios.IServiciosArticulos;
 import com.diegoBermudez.servicios.IServiciosEmpleados;
 
