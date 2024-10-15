@@ -17,6 +17,7 @@
         <module>adapter_pattern</module>
         <module>composite_pattern</module>
         <module>decorator_pattern</module>
+        <module>iterator_pattern</module>
     </modules>
 
     <properties>
